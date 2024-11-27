@@ -1,0 +1,40 @@
+{
+    "books": [
+        {
+            "id": 1,
+            "title": "Name1",
+            "author": "Author1",
+            "year": 2001,
+            "status": "в наличии"
+        },
+        {
+            "id": 2,
+            "title": "Name2",
+            "author": "Author2",
+            "year": 2002,
+            "status": "в наличии"
+        },
+        {
+            "id": 3,
+            "title": "Name3",
+            "author": "Author3",
+            "year": 2003,
+            "status": "в наличии"
+        },
+        {
+            "id": 4,
+            "title": "Name4",
+            "author": "Author4",
+            "year": 2004,
+            "status": "выдана"
+        },
+        {
+            "id": 7,
+            "title": "ff",
+            "author": "ff",
+            "year": 111,
+            "status": "выдана"
+        }
+    ],
+    "current_id": 8
+}
